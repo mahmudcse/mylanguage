@@ -1,4 +1,4 @@
-# German Vocabulary Learning App
+# Vocabulary Learning App
 
 ## Overview
 This single-page application, built using Laravel, jQuery, and MySQL, serves as a dynamic tool for learning German. It's designed for learners to store, review, and manage German vocabulary effectively.
